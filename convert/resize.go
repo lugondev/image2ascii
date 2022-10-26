@@ -1,8 +1,8 @@
 package convert
 
 import (
+	"github.com/lugondev/image2ascii/terminal"
 	"github.com/nfnt/resize"
-	"github.com/qeesung/image2ascii/terminal"
 	"image"
 	"log"
 )
